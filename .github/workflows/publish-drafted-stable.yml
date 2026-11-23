@@ -1,7 +1,7 @@
 name: Publish a drafted stable release
 
 # Publishes again a stable release that was turned back into a draft, so that
-# resign-stable.yml can re-sign it (owner, 2026-10-16, Droidtop/tracker#550:
+# resign-stable.yml can re-sign it (owner, 2026-10-16, mytop-project/tracker#550:
 # the three Godot stable releases, drafted since 2026-10-14, come back).
 # Refuses anything but a draft that is not a pre-release; never marks it latest.
 on:

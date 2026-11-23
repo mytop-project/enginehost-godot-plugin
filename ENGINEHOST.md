@@ -2,7 +2,7 @@
 
 ## Branches
 
-A core has only these branches (Droidtop/tracker#324, the owner, 2026-11-05):
+A core has only these branches (mytop-project/tracker#324, the owner, 2026-11-05):
 
 - `upstream-sync` follows upstream Godot (`godotengine/godot`). The daily `sync-upstream`
   workflow (on `plugin-core`) merges upstream's `master` into it; nothing of ours is developed
